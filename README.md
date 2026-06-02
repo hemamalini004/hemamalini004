@@ -2,24 +2,46 @@
 
 ### 🎓 Pre-Final Year Computer Science Engineering Student
 
-💻 Python Developer | Web Development Enthusiast
+💻 Python Developer | Web Development Enthusiast | AIML Learner
 
-🤖 AIML Learner | Passionate About Building Meaningful Tech Solutions
-
-🌱 Continuously learning, creating, and exploring new technologies.
+🌱 Passionate about technology, innovation, and continuous learning.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pre-Final Year Computer Science Engineering Student
+- 🎓 Pre-Final Year CSE Student
 - 💻 Interested in Web Development and Backend Development
 - 🐍 Working with Python and Go (Golang)
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🎨 Enthusiastic about UI/UX Design
 - 📚 Always eager to learn and improve my technical skills
-- 🚀 Passionate about solving real-world problems through technology
 
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,html,css,js,postgresql,mysql,git,github,vscode&perline=5" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 hemamaliniarumugam2004@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/hemamalini-s-a-1414b4287
+
+🐙 GitHub  
+https://github.com/hemamalini004
+
+---
+
+## ✨ Quote
+
+> Learning never exhausts the mind; it only expands possibilities.
 ---
 
 ## 🛠️ Languages and Tools
