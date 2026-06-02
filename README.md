@@ -2,22 +2,23 @@
 
 ### 🎓 Pre-Final Year Computer Science Engineering Student
 
-💻 Python Backend Developer | Web Developer
+💻 Python Developer | Web Development Enthusiast
 
-🤖 AIML Learner | UI/UX Enthusiast
+🤖 AIML Learner | Passionate About Building Meaningful Tech Solutions
 
-🌱 Passionate about technology, innovation, and continuous learning.
+🌱 Continuously learning, creating, and exploring new technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pre-Final Year CSE Student
+- 🎓 Pre-Final Year Computer Science Engineering Student
 - 💻 Interested in Web Development and Backend Development
 - 🐍 Working with Python and Go (Golang)
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🎨 Enthusiastic about UI/UX Design
-- 📚 Always eager to learn new technologies
+- 📚 Always eager to learn and improve my technical skills
+- 🚀 Passionate about solving real-world problems through technology
 
 ---
 
@@ -31,22 +32,18 @@
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/hemamalini-s-a-1414b4287" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<a href="https://www.linkedin.com/in/hemamalini-s-a-1414b4287">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
+</a> Hemamalini S.A
+
+<br>
 
 <a href="mailto:hemamaliniarumugam2004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<br><br>
-
-💼 LinkedIn: https://www.linkedin.com/in/hemamalini-s-a-1414b4287
-
-📧 Email: hemamaliniarumugam2004@gmail.com
+  <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
+</a> hemamaliniarumugam2004@gmail.com
 
 ---
 
 ## ✨ Quote
 
-> Continuous learning and consistent effort create meaningful growth.
+> Learning never exhausts the mind; it only expands possibilities.
