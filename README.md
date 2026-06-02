@@ -24,23 +24,23 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,html,css,js,postgresql,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,html,css,js,postgresql,mysql,git,github,vscode&perline=5" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/hemamalini-s-a-1414b4287">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
-</a> Hemamalini S.A
-
-<br>
-
-<a href="mailto:hemamaliniarumugam2004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="35"/>
-</a> hemamaliniarumugam2004@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemamalini-s-a-1414b4287">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  
+  <a href="mailto:hemamaliniarumugam2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+</p>
 
 ---
 
