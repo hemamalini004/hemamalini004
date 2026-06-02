@@ -24,7 +24,7 @@ Hi 👋, I'm Hemamalini
 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,go,html,css,js,postgresql,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,html,css,js,postgresql,mysql,git,github,vscode" />
 </p>---
 
 📊 GitHub Stats
@@ -45,4 +45,4 @@ Hi 👋, I'm Hemamalini
 
 ✨ Quote
 
-«"Continuous learning and consistent effort create meaningful growth."»
+«Continuous learning and consistent effort create meaningful growth.»
