@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pre-Final Year CSE Student
+- 🎓 Final Year CSE Student
 - 💻 Interested in Web Development and Backend Development
 - 🐍 Working with Python and Go (Golang)
 - 🤖 Exploring Artificial Intelligence and Machine Learning
