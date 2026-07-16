@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hemamalini
 
-### 🎓 Pre-Final Year Computer Science Engineering Student
+### 🎓 Final Year Computer Science Engineering Student
 
 💻 Python Developer | Web Development Enthusiast | AIML Learner
 
